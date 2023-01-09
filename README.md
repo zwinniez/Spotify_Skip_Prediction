@@ -1,2 +1,2 @@
 # Spotify_Skip_Prediction
-A semester long project to evaluate correlation between Spotify track features and user behavior predicatability.
+Data science and machine learning project to evaluate correlation between Spotify track features and user behavior predicatability.
